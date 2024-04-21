@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">meteorology</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="current_weather">Current Status</string>
+    <string name="season">Season</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="next_4_days">Next 4 Days</string>
+    <string name="city_name">Name</string>
+    <string name="viewpagerWindspeedID">Wind Speed</string>
+    <string name="viewpagerTitle">Days</string>
+    <string name="avgtemp">20</string>
+    <string name="key">580eee6f95b64cff81f143704241604</string>
+    <string name="minmaxtempcelcius">00</string>
+    <string name="degree">°</string>
+</resources>
